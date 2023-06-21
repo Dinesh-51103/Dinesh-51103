@@ -25,12 +25,50 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <a href="https://instagram.com/_dinesh_sundar_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dinesh_sundar_05" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![](https://i.imgur.com/waxVImv.png)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-51103&show_icons=true&locale=en&layout=compact" alt="dinesh-51103" /></p>
+<h2>📈 My Github Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-51103&show_icons=true&locale=en" alt="dinesh-51103" /></p>
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinesh-51103&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-51103&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinesh-51103&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-51103&layout=compact&langs_count=8&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-51103&" alt="dinesh-51103" /></p>
+<br/>
+
+![](https://i.imgur.com/waxVImv.png)
+
+<br/>
+
+<h2>💻 Things I Code with </h2>
+
+I love to learn new things and experiment with new technologies.
+These are some of the major languages, technologies, tools and platforms I have worked with:
+
+
+<h3>Languages & Databases</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c)](https://skillicons.dev)
+
+<h3>Framework & Technologies </h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+<h3> Tools & Platform </h3>
+
+   [![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,github,stackoverflow&perline=10)](https://skillicons.dev)
+
+<br/>
+
+![](https://i.imgur.com/waxVImv.png)
+
+<br/>
+
+**Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/Dinesh-51103/count.svg)
+
+<br/>
+
+![](https://i.imgur.com/waxVImv.png)
 
