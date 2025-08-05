@@ -21,7 +21,7 @@ I have a great passion to do programming, build models and train them. My goal i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dineshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinesh-kumar-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_dinesh_sundar_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dinesh_sundar_05" height="30" width="40" /></a>
 </p>
 
